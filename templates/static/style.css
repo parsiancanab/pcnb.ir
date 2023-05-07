@@ -2,3 +2,20 @@ body {
     background-color: azure;
     margin: 20px;
 }
+.important {
+    direction: rtl;
+    justify-content: center;
+    padding-right: 20px;
+    font-family: 'El Messiri', sans-serif; 
+}
+
+.important-1 {
+    direction: rtl;
+    justify-content: center;
+    padding-right: 200px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    font-family: 'El Messiri', sans-serif; 
+    color: #fd5ba7;
+
+}
