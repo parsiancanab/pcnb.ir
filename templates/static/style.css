@@ -19,3 +19,8 @@ body {
     color: #fd5ba7;
 
 }
+.main {
+    width: 100%;
+    border-radius: 15px;
+    object-fit: cover;
+}
