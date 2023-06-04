@@ -1,6 +1,9 @@
 body {
     background-color: azure;
     margin: 20px;
+    font-family: 'El Messiri', sans-serif; 
+
+    
 }
 .important {
     direction: rtl;
@@ -30,10 +33,9 @@ body {
     object-fit: cover;
 }
 
+
 .logoimg {
     width: 100%;
-    width: 300px;
-    height: 300px;
     object-fit: cover;
     justify-content: center;
     position: center;
