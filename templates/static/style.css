@@ -24,3 +24,21 @@ body {
     border-radius: 15px;
     object-fit: cover;
 }
+
+.fakeimg {
+    width: 100%;
+    object-fit: cover;
+}
+
+.logoimg {
+    width: 300px;
+    height: 300px;
+    object-fit: fill;
+    justify-content: center;
+    position: center;
+
+}
+
+.button {
+    width: fit-content;
+}
