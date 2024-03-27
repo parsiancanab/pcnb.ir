@@ -28,6 +28,7 @@ body {
   column-count: 3;
   column-gap: 50px;
   column-rule: 5px dotted rgb(0, 119, 255);
+  padding: 15px;
 }
 .main {
     max-width: 100%;
